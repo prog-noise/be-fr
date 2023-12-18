@@ -76,7 +76,15 @@ body
 	padding: 100px;
 }
 
+#fondrien
+{
+	width: 1000px;
+	margin:0 auto;
+	
+	text-align: center;
+	
 
+}
 
 background-image
 {
@@ -88,8 +96,18 @@ img
 }
 .img2 
 {
-	width: 950px;
+	width: 600px;
 	align-content: center;
+}
+.img3 
+{
+	width: 400px;
+	float: left;
+}
+.img4
+{
+	width: 400px;
+	float: right;
 }
 
 ul {
