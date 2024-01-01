@@ -26,6 +26,16 @@ body
 	align-content: center;
 	padding: 20px;
 }
+#f36525
+{
+	
+	width: 600px;
+	margin:0 auto;
+	background-color: dimgrey;
+	text-align: left;
+	align-content: center;
+	padding: 100px;
+}
 
 #écritpar
 {
@@ -123,7 +133,7 @@ li {
 }
 li a {
 	color: darkgrey;
-	padding:15px;
+	padding:30px;
 	text-decoration: none;
 	display: inline-block;
 }
