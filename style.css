@@ -28,13 +28,14 @@ body
 }
 #f36525
 {
-	
-	width: 600px;
+	border: 10px;
+	border-color: ;
+	width: 780px;
 	margin:0 auto;
-	background-color: dimgrey;
+	background-color: darkgrey;
 	text-align: left;
 	align-content: center;
-	padding: 100px;
+	padding: 0px;
 }
 
 #écritpar
